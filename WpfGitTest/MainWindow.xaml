@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid Margin="0,0,2,0">
         <Button x:Name="btnBericht" Content="Bericht" HorizontalAlignment="Left" Margin="10,257,0,0" VerticalAlignment="Top" Width="399" Height="35" Click="btnBericht_Click" Background="#FF0DC223"/>
-        <ListBox x:Name="lbBericht" HorizontalAlignment="Left" Height="172" VerticalAlignment="Top" Width="399" Margin="10,66,0,0"/>
+        <ListBox x:Name="lbBericht" HorizontalAlignment="Left" Height="172" VerticalAlignment="Top" Width="399" Margin="10,66,0,0" Background="#FFB7B7B7"/>
         <Label x:Name="lblKop" Content="Kennismaking met Git!" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="51" Width="399" Background="#FFEC7373"/>
 
     </Grid>
